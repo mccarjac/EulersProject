@@ -1,0 +1,6 @@
+C:\Users\Jacob\Documents\GitHub\EulersProject\Problem2\Problem2\bin\Debug\Problem2.exe.config
+C:\Users\Jacob\Documents\GitHub\EulersProject\Problem2\Problem2\bin\Debug\Problem2.exe
+C:\Users\Jacob\Documents\GitHub\EulersProject\Problem2\Problem2\bin\Debug\Problem2.pdb
+C:\Users\Jacob\Documents\GitHub\EulersProject\Problem2\Problem2\obj\Debug\Problem2.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Documents\GitHub\EulersProject\Problem2\Problem2\obj\Debug\Problem2.exe
+C:\Users\Jacob\Documents\GitHub\EulersProject\Problem2\Problem2\obj\Debug\Problem2.pdb

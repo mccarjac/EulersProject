@@ -1,0 +1,5 @@
+C:\Users\Jacob\Documents\GitHub\EulersProject\Problem4\Problem4\bin\Debug\Problem4.exe.config
+C:\Users\Jacob\Documents\GitHub\EulersProject\Problem4\Problem4\bin\Debug\Problem4.exe
+C:\Users\Jacob\Documents\GitHub\EulersProject\Problem4\Problem4\bin\Debug\Problem4.pdb
+C:\Users\Jacob\Documents\GitHub\EulersProject\Problem4\Problem4\obj\Debug\Problem4.exe
+C:\Users\Jacob\Documents\GitHub\EulersProject\Problem4\Problem4\obj\Debug\Problem4.pdb

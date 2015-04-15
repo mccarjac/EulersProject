@@ -10,22 +10,22 @@ namespace Problem2
     {
         static void Main(string[] args)
         {
-            int first = 1;
-            int second = 2;
-            int sum = 0;
-            int temp;
+            int First = 1;
+            int Second = 2;
+            int Sum = 0;
+            int Temp;
 
-            while (second < 4000000)
+            while (Second < 4000000)
             {
-                temp = second;
-                second = first + second;
-                first = temp;
-                if (first % 2 == 0)
+                Temp = Second;
+                Second = First + Second;
+                First = Temp;
+                if (First % 2 == 0)
                 {
-                    sum += first;
+                    Sum += First;
                 }
             }
-            Console.WriteLine(sum);
+            Console.WriteLine(Sum);
             Console.ReadKey();
         }
     }
