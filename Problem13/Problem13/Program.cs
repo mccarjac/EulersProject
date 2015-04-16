@@ -23,6 +23,7 @@ namespace Problem13
                 foreach(char a in num)
                 {
                     bignums[i] = BigInteger.Add(bignums[i], BigInteger.Multiply((int)a - 48, BigInteger.Pow(10, j)));
+                    j--;
                 }
                 i++;
             }
