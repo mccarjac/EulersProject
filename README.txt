@@ -1,0 +1,1 @@
+This is a repo for my solutions to problems within the Euler Project. If you are working on these problems yourself I urge you not to look at my solutions and that you come to your own. If you have already solved a problem feel free to compare. Additionally if you have no intent to work on the Euler Project then feel free to browse. 
